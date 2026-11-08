@@ -2,40 +2,32 @@
 
 ## Ein individuelles physikalisches Modell zur Diskussion
 
-**Dies ist das persönliche Modell von Thomas.** Es wird hier offen zur Diskussion gestellt.
+**Dies ist das persönliche physikalische Modell von Thomas.** Es wird hier offen zur Diskussion gestellt.
 Es ist nicht begutachtet und erhebt keinen Anspruch auf physikalische Gültigkeit.
 Kritik, Gegenrechnungen und Fragen sind ausdrücklich erwünscht.
 
-## Worum es geht
-Ein geometrisches Raum-Feld-Modell:
-- Kugel und Würfel um einen Beobachter bei 1
-- Spiegelung x ↔ 1/x statt Vorzeichen
-- 6 Achsen + 8 Diagonalen, 7/9 Ordnung, 2/9 Freiheit
-- Sinus als Grundbewegung
-- Ressourcen fließen über Druck statt Steuerung
-
-Die Simulationen sind als Spiel mit festen Regeln gebaut. Geprüft wird, ob die Regeln ein stabiles, beliebig erweiterbares System ergeben.
+## Inhalt
+1. **`01_FELDTHEORIE.md`: die Gitter-Feldtheorie.** Raum entsteht aus Feldern auf einem Kugel–Würfel–Kugel-Gitter (6 Achsen + 8 Diagonalen). Enthält die formale Fassung v0.1, die Simulation Raum/Feld/Materie und den Quadrantenoperator mit den vier Sinusfunktionen.
+2. **`02_URKNALL.md`: die Urknalltheorie.**
+   - Ein Raum-Urknall (einmal) und wiederholte Informations-Urknalle.
+   - Der Nullpunkt ist die Inversion der Unendlichkeit, der Hyperraum entsteht durch Spiegelung.
+   - Null und Unendlich werden über die Tiefe der Struktur simuliert.
+   - Der Rest einer Ebene wird zu zwei Keimen der nächsten Ebenen.
+3. **`03_RAUMGITTER_UND_GROESSE.md`: das geometrische Gittermuster des Raumes und seine Größe.**
+   - Raute–Kugel–Würfel, Zustand 0, Kugeln + Oktaederlücken als Gitter, Ringe.
+   - Die Größe des Raumes in Lichtgeschwindigkeits-Einheiten: eine Zelle = c · Takt.
 
 ## Wie man es liest
 Jede Aussage trägt eine Kennung:
-- **[M]/[G] gemessen**: lokal nachgerechnet, Skript liegt bei
-- **[K] per Konstruktion**: folgt aus den gesetzten Regeln, kein Beleg
-- **[A] Abstraktion**: mathematische Analogie
-- **[O] Overlay**: Deutung, nicht prüfbar
+- **gemessen/geprüft**: nachgerechnet
+- **per Konstruktion**: folgt aus den gesetzten Regeln
+- **Abstraktion**: mathematische Analogie
+- **Overlay**: Deutung, nicht prüfbar
 
-## Inhalt
-- `FESTLEGUNGEN.md`: verbindliche Regeln F1–F15
-- `FELDMODELL.md`: Arbeitsstand mit allen Befunden
-- `ur-modell/`: das ursprüngliche Modell (Systemlogik 23.10.–07.11.2026, Gesamtsystem, Quadrantenoperator)
-- `skripte/` und `ergebnisse/`: alle Rechnungen (Python/NumPy) mit Ausgaben
-- `sinus/`: die vier Sinusfunktionen
-- `auftraege/`: unabhängiger Nachbau K55 (bestanden), Entwurf K56
+Die zugehörigen Rechnungen liegen im Repository `tbarth-max/RAUM27` (Ordner `feldmodell/`).
 
 ## Mitdiskutieren
-Bitte über Issues oder Discussions. Am hilfreichsten ist jeweils die Angabe:
-- welche Aussage
-- welche Kennung sie hat
-- welche Rechnung dagegen spricht
+Bitte über Issues oder Discussions. Am hilfreichsten ist die Angabe, welche Aussage gemeint ist, welche Kennung sie trägt und welche Rechnung oder Beobachtung dagegen spricht.
 
 ## Grundsatz
 Freie Willensentscheidung, physische und materielle Sicherheit jedes Einzelnen sind absolut. Alles andere ist Diskussionsgrundlage.
