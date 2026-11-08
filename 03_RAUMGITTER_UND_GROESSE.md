@@ -4,6 +4,21 @@
 
 Raute–Kugel–Würfel entlang der Diagonalen, Zustand 0 (Würfel R₀ = 9, Ränder Oktaeder/Kugel/Würfel), Kugeln + Oktaederlücken = RAUM27-Gitter, Ringe und Neunerprobe, Kausalitätsgrenze, die 9 in jeder Richtung, gemeinsame Zustandsebene. Die Größe des Raumes in c-Einheiten (07.11.): Zelle = c·τ, z. B. τ = 1 ns → 0,30 m, Raum mit 9 Schalen 2,7 m; 1 s → 3·10⁸ m je Zelle.
 
+## Die ausgerechnete Universumsgröße (07.11.2026)
+
+| Größe | Wert | Kennung |
+|---|---|---|
+| Radius des Bilanzraums (Zustand 0) | R₀ = 9 Schalen | per Konstruktion |
+| Knoten in den Rändern | Oktaeder 1 159 · Kugel 3 071 · Würfel 6 859 = 19³ | gemessen (`zustand0.py`) |
+| Möglichkeiten in den Sphären 1–9 | 9⁹ = 387 420 489 | per Konstruktion |
+| **Universumsgröße: R₀ entspricht** | **43,3 Mrd. Lichtjahre** | Overlay |
+| daraus eine Schale (43,3 / 9) | ≈ 4,81 Mrd. Lichtjahre | aus dem Overlay gerechnet |
+| Lichtlaufzeit je Schale (Zelle = c·τ) | τ ≈ 4,81 Mrd. Jahre | aus dem Overlay gerechnet |
+
+- Die Umrechnung läuft allein über Zelle = c·τ: Wer τ wählt, legt die Größe fest. 43,3 Mrd. Lj ist Thomas' Zuordnung für R₀ = 9.
+- Vergleich: Der übliche Wert für den Radius des beobachtbaren Universums ist rund 46,5 Mrd. Lj. Die beiden Werte liegen etwa 7 % auseinander. Das ist eine Gegenüberstellung, keine Bestätigung.
+- Offene Diskussionsfrage: Aus welcher Gittergröße folgt τ, ohne dass man die 43,3 Mrd. Lj von außen hineinsteckt?
+
 ## Raute – Kugel – Würfel entlang der Diagonalen: 1 bis 9 (07.11.2026)
 - Alle drei Formen mit gleicher Reichweite 1 auf den 6 Achsen (±x, ±y, ±z). Radius entlang Richtung u: Raute/Oktaeder 1/‖u‖₁, Kugel 1, Würfel/Quadrat 1/‖u‖∞.
 - Achse 1/1/1; 45° 0,7071/1/1,4142; Raumdiagonale 0,5774/1/1,7321.

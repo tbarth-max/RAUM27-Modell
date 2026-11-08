@@ -6,6 +6,8 @@
 Es ist nicht begutachtet und erhebt keinen Anspruch auf physikalische Gültigkeit.
 Kritik, Gegenrechnungen und Fragen sind ausdrücklich erwünscht.
 
+> **Ausgerechnete Universumsgröße:** Der Bilanzraum hat R₀ = 9 Schalen. Er entspricht **43,3 Mrd. Lichtjahren** (Overlay), also rund 4,81 Mrd. Lj je Schale. Herleitung und Kennungen stehen in [03_RAUMGITTER_UND_GROESSE.md](03_RAUMGITTER_UND_GROESSE.md#die-ausgerechnete-universumsgröße-07112026).
+
 ## Inhalt
 1. **`01_FELDTHEORIE.md`: die Gitter-Feldtheorie.** Raum entsteht aus Feldern auf einem Kugel–Würfel–Kugel-Gitter (6 Achsen + 8 Diagonalen). Enthält die formale Fassung v0.1, die Simulation Raum/Feld/Materie und den Quadrantenoperator mit den vier Sinusfunktionen.
 2. **`02_URKNALL.md`: die Urknalltheorie.**
