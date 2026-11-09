@@ -1,8 +1,5 @@
 """Access-space checkpoint: state space vs access space.
 
-Question: does the billiard give more than one independent entry
-direction per octant, or only a different drawing of the same path?
-
 An entry is the pair (octant, sign triple of velocity) at the moment
 the trajectory enters that octant. If the same octant is reached with
 more than one distinct sign triple, the access count is > 1.
